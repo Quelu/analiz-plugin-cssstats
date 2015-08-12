@@ -1,0 +1,17 @@
+{
+  "name": "analiz-plugin-stylestats",
+  "version": "0.0.1",
+  "description": "cssstats module for Analiz",
+  "main": "lib/index.js",
+  "keywords": [
+    "analiz",
+    "template",
+    "css",
+    "stylestats"
+  ],
+  "author": "Quelu <quelumatagne@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cssstats": "^2.0.1"
+  }
+}
