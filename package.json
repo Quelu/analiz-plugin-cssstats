@@ -1,5 +1,5 @@
 {
-  "name": "analiz-plugin-stylestats",
+  "name": "analiz-plugin-cssstats",
   "version": "0.0.1",
   "description": "cssstats module for Analiz",
   "main": "lib/index.js",
