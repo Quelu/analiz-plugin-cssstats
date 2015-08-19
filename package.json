@@ -1,6 +1,6 @@
 {
   "name": "analiz-plugin-cssstats",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cssstats module for Analiz",
   "main": "lib/index.js",
   "keywords": [
