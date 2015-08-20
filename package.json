@@ -12,6 +12,6 @@
   "author": "Quelu <quelumatagne@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "cssstats": "^2.0.1"
+    "cssstats": "Quelu/cssstats-core"
   }
 }
